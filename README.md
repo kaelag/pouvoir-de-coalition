@@ -1,8 +1,8 @@
-Projet T1 — Pouvoir de coalition par verification formelle
+Projet T1 : Pouvoir de coalition par verification formelle
 ==========================================================
 
 Groupe : Ilias Kalalou et Kaelan Grall
-EPITA SCIA — Intelligence Symbolique 2026
+EPITA SCIA : Intelligence Symbolique 2026
 
 Sujet : mesurer le pouvoir reel des acteurs d'un vote (Shapley-Shubik, Banzhaf,
 Deegan-Packel), le verifier formellement par le solveur SMT Z3, et l'appliquer a
@@ -58,7 +58,7 @@ l'election, ce qui justifie la modelisation au niveau des groupes.
 Structure
 ---------
 
-    T1-PouvoirCoalition-IliasKalalou-KaelanGrall/
+    pouvoir-de-coalition/
     ├── app.py                     Application Streamlit (6 modes)
     ├── analysis.py                Tableaux comparatifs, validation croisee, benchmark
     ├── presentation.pptx          Slides de soutenance (et export presentation.pdf)
