@@ -1,6 +1,8 @@
 Projet T1 : Pouvoir de coalition par verification formelle
 ==========================================================
 
+[![Tests](https://github.com/kaelag/pouvoir-de-coalition/actions/workflows/tests.yml/badge.svg)](https://github.com/kaelag/pouvoir-de-coalition/actions/workflows/tests.yml)
+
 Groupe : Ilias Kalalou et Kaelan Grall
 EPITA SCIA : Intelligence Symbolique 2026
 
