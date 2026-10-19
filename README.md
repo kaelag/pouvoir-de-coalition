@@ -219,3 +219,8 @@ References
 - de Moura L., Bjorner N. (2008), Z3 : An Efficient SMT Solver, TACAS.
 - Sources de donnees : Assemblee nationale (composition des groupes), ministere
   de l'Interieur (resultats des elections europeennes 2024).
+
+
+## Équipe
+
+Projet réalisé en binôme avec [Ilias Kalalou](https://github.com/iliaskalalou) (EPITA, spécialisation SCIA, cours d'Intelligence Symbolique, 2026). Ce dépôt reprend le dossier de notre binôme dans le dépôt de cours, avec son historique ; les commits d'Ilias sont co-signés.
